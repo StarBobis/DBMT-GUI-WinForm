@@ -6,4 +6,4 @@ DBMT 过时的基于 WinForm 的图形界面，新的 GUI 正在开发中：https://github.com/Star
 DBMT 的 Blender 插件是开源的，位于：https://github.com/StarBobis/DBMT/tree/main/BlenderPlugin 
 
 # 用到的 Nuget 包
-- Newtonsoft.Json
+- Newtonsoft.Json  
