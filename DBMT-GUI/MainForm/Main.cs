@@ -30,7 +30,7 @@ namespace NMBT_GUI
         private string CurrentMode = "Dev";
 
         //程序名称
-        private string DBMT_Title = "DirectX Buffer Mod Tool  当前版本:V1.0.4.0 ";
+        private string DBMT_Title = "DirectX Buffer Mod Tool  当前版本:V1.0.4.2 ";
 
         //由C++开发的核心算法进程
         private string MMT_EXE_FileName = "DBMT.exe";
